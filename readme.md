@@ -38,7 +38,7 @@
     pip install -r requirements.txt
 
 Необходимо самостоятельно создать базу 'kanalservis_db' и пользователя 'kanalservis_user' с паролем 'gf6dYUa2'.
-Для создания таблицы заказов можно запустить db.create_orders_table.py
+Для создания таблицы заказов можно запустить на исполнение db.psql_tools.py
 
 ## Запуск
 Запустить на исполнение скрипт **main.py**
